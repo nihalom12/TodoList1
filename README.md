@@ -60,4 +60,4 @@ Technologies:
 - Babel (with [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react))
 - SWC (with [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc))
 
-Author [ruweyda omar abdi] [Email:sowdahassan4@gmail.com] [GitHub:nihalom12]
+Author [ruweyda omar abdi] [Email:nihalomer2004@gmail.com] [GitHub:nihalom12]
